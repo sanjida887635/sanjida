@@ -1,0 +1,51 @@
+.about-section{
+    height: 100vh;
+}
+
+.cotain-hadding h3{
+    color: #a68d75;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.cotain-hadding h1{
+    color: #fff;
+    font-size: 70px;
+    width: 50%;
+    font-weight: 900;
+    text-transform: uppercase;
+
+
+}
+.cotain-hadding h1 span{
+    font-weight: 100;
+}
+.cotain-hadding p{
+    color: #737373;
+    width: 80%;
+}
+.contain-2-hadding h3{
+    color: #737373;
+    font-size: 16px;
+    width: 90%;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: ;
+
+}
+.contain-2-hadding h3 span{
+    color: #a68d75;
+}
+.contain-2-hadding .spacal-text{
+    color: #fff !important;
+}
+.about-img{
+    width: 86%;
+    margin-top: 30px;
+}
+.about-img img{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
